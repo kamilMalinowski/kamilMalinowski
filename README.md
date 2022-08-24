@@ -50,7 +50,6 @@
     <img align="left" alt="jquery"                 width="22px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" />
     <img align="left" alt="woocommerce"            width="22px" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain.svg" />
     <img align="left" alt="wordpress"              width="22px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
-    <img align="left" alt="mysql"                  width="22px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" />
     <img align="left" alt="php"                    width="22px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
     <img align="left" alt="trello"                 width="22px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
     <img align="left" alt="codepen"                width="22px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" />
