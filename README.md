@@ -1,4 +1,4 @@
-![framework-css!](https://www.kamil--m.com/gh/framework-css.png "framework-css")
+![framework-css!](https://www.kamil--m.com/gh/git.png "framework-css")
 
 # Hi, it's Kamil here
 
@@ -51,9 +51,6 @@
     <img align="left" alt="woocommerce"            width="22px" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain.svg" />
     <img align="left" alt="wordpress"              width="22px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />
     <img align="left" alt="php"                    width="22px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-    <img align="left" alt="trello"                 width="22px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
-    <img align="left" alt="codepen"                width="22px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" />
-    <img align="left" alt="slack"                  width="22px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />
 </div>
 
 <br>
