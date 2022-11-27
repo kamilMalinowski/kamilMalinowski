@@ -6,11 +6,9 @@
 
 🔸 👨🏻‍💻 I'm looking for a job!
 
-🔹 🌱 I’m currently learning everything 🤯
+🔸 🥅 2022 Goals: Learn Vue.js and React.js
 
-🔸 🥅 2022 Goals: Learn Vue.js / React.js
-
-🔹 🥁 Fun fact: I love play drums / guitar
+🔹 🥁 Fun fact: I love playing drums and guitar
 
 ### Connect with me:
 
@@ -51,7 +49,7 @@
 <br>
 <br>
 
-### Graphics programs:
+### Graphic programs:
 
 <img align="left" alt="figma"                  width="22px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="left" alt="xd"                     width="22px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" />
