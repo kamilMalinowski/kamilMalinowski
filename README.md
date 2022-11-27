@@ -18,11 +18,6 @@
 
 🔹 [linkedin](https://www.linkedin.com/in/kamil-malinowski-4034601b5/)
 
-🔸 [behance](https://www.behance.net/kamilmalinowski)
-
-🔹 [facebook](https://www.facebook.com/kams.malinowski)
-
-🔸 [youtube](https://www.youtube.com/user/KamilAsomia)
 
 ### Languages and Tools:
 
