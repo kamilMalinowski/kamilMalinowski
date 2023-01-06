@@ -2,7 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/64846552/210592621-d4dca177-cd6b-41c3-a7f5-0894c011d2bd.png" style="width:100%">
 
-<h2 align="center"><b>Connect with me:</b></h2>
+<img src="https://user-images.githubusercontent.com/64846552/210922087-2b8498f2-e818-4c77-8fed-eb7d4aaaf11d.png" style="width:100%">
+
+
+<h3 align="center"><b>Connect with me:</b></h3>
 
 <p align="center">My website: https://www.kamil--m.com/</p>
 
