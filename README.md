@@ -2,7 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/64846552/210592621-d4dca177-cd6b-41c3-a7f5-0894c011d2bd.png" style="width:100%">
 
-<img src="https://user-images.githubusercontent.com/64846552/210923314-e9ff4238-f6ee-41de-808c-34f1e9308dc3.png" style="width:100%">
+<img src="https://user-images.githubusercontent.com/64846552/213922663-bdeff9af-00aa-42a9-a26a-7f066e227f40.png" style="width:100%">
+
 
 <h3 align="center"><b>Connect with me:</b></h3>
 
