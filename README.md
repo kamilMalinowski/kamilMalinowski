@@ -1,13 +1,6 @@
-<img src="https://user-images.githubusercontent.com/64846552/210590265-35894434-ddaf-4170-817b-5a4c36b25891.png" style="width:100%">
-
-<img src="https://user-images.githubusercontent.com/64846552/210592621-d4dca177-cd6b-41c3-a7f5-0894c011d2bd.png" style="width:100%">
-
-<img src="https://user-images.githubusercontent.com/64846552/213922663-bdeff9af-00aa-42a9-a26a-7f066e227f40.png" style="width:100%">
-
+![image](https://user-images.githubusercontent.com/64846552/224842761-26b31835-ae95-4447-aa9f-672ead19c7e9.png)
 
 <h3 align="center"><b>Connect with me:</b></h3>
-
-<p align="center">My website: https://www.kamil--m.com/</p>
 
 <p align="center">LinkedIn: https://www.linkedin.com/in/kamil-malinowski-4034601b5/</p>
 
