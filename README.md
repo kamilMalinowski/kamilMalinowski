@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/64846552/224842761-26b31835-ae95-4447-aa9f-672ead19c7e9.png)
+![image](https://user-images.githubusercontent.com/64846552/225453486-c975d336-120c-458d-98c0-e7e3dbd35b50.png)
 
 <h3 align="center"><b>Connect with me:</b></h3>
 
